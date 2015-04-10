@@ -1,0 +1,10 @@
+﻿[
+{"FirstName":"Guy","LastName":"Tester","EmailAddress":"guy@tester.org","PhoneNumber":"703-555-1212","JobCompany":"CircleBack"},
+{"FirstName":"John","LastName":"Tester","EmailAddress":"john@tester.org","PhoneNumber":"703-555-1212","JobCompany":"CircleBack"},    	    
+{"FirstName":"Jane","LastName":"Tester","EmailAddress":"jane@tester.org","PhoneNumber":"703-555-9876","JobTitle":"Dudette","JobCompany":"Dub Labs"},    
+{"FirstName":"Betty","LastName":"Tester","EmailAddress":"betty@tester.org","JobCompany":"IBM"},       
+{"FirstName":"Ted","LastName":"Nolan","EmailAddress":"ted@tester.org","PhoneNumber":"301-555-2343","JobTitle":"Coach","JobCompany":"Sabres"},   
+{"FirstName":"Dianna","LastName":"Russini","EmailAddress":"diana@tester.org","PhoneNumber":"212-555-2343","JobTitle":"Repoter","JobCompany":"NBC"},
+{"FirstName":"Jim","LastName":"Kelly","EmailAddress":"jim@tester.org","PhoneNumber":"716-555-2343","JobTitle":"QA","JobCompany":"Bills"},
+{"FirstName":"Mauricio","LastName":"Gentile","EmailAddress":"mgentile@tester.org","PhoneNumber":"202-545-2343","JobTitle":"Developer","JobCompany":"Acme"}
+]

@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergeTool", "MergeTool\MergeTool.csproj", "{667958F2-FC28-45CF-A90D-960E587ED53F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergeTool.Console", "MergeTool.Console\MergeTool.Console.csproj", "{C8EC8963-A4C2-42E1-B211-C8D05794E1AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergeTool.Tests", "MergeTool.Tests\MergeTool.Tests.csproj", "{4B00D720-564A-437E-BF24-6F7569FDE11F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{667958F2-FC28-45CF-A90D-960E587ED53F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{667958F2-FC28-45CF-A90D-960E587ED53F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{667958F2-FC28-45CF-A90D-960E587ED53F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{667958F2-FC28-45CF-A90D-960E587ED53F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8EC8963-A4C2-42E1-B211-C8D05794E1AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8EC8963-A4C2-42E1-B211-C8D05794E1AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8EC8963-A4C2-42E1-B211-C8D05794E1AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8EC8963-A4C2-42E1-B211-C8D05794E1AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B00D720-564A-437E-BF24-6F7569FDE11F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B00D720-564A-437E-BF24-6F7569FDE11F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B00D720-564A-437E-BF24-6F7569FDE11F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B00D720-564A-437E-BF24-6F7569FDE11F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
